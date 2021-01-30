@@ -7,13 +7,14 @@ I then never stopped learning and immediately began courses through Udemy to gai
 Currently part of a start up, and have learned Google Authenticaiton, Facebook authentication, and how to integrate the front end apis to a Django backend. 
 
 My current favorite framework is Next.js. 
+#
 
+#### Skills: 
+// React // Next.js // MongoDB // Express // Node.js // jQuery // Git // Typescript // Social Authentications // HTML // CSS // SCSS
 
-Skills: // React // Next.js // MongoDB // Express // Node.js // jQuery // Git // Typescript // Social Authentications // HTML // CSS // SCSS
+📫 How to reach me: KeithBillingsBusiness@gmail.com 
 
-- 📫 How to reach me: KeithBillingsBusiness@gmail.com 
-
-Socials: 
+#### Socials: 
 [<img src='https://www.iconfinder.com/icons/1298743/download/svg/512' alt='github' height='40'>](https://github.com/KeithBillings)  [<img src='https://www.iconfinder.com/icons/4362961/download/svg/512' alt='linkedin' height='40'>](https://www.linkedin.com/in/keithbillings/)  [<img src='https://www.iconfinder.com/icons/386648/download/svg/512' alt='instagram' height='40'>](https://www.instagram.com/CowboyKeithBop/)  [<img src='https://www.iconfinder.com/icons/4102580/download/svg/512' alt='twitter' height='40'>](https://twitter.com/KeithBillings)  [<img src='https://www.iconfinder.com/icons/5882204/download/svg/512' alt='website' height='40'>](KeithBillings.com)  
 
 
