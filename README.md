@@ -1,4 +1,4 @@
-### Hi there 👋, Keith Billings
+### Hello World! 👋
 #### I am a front end web developer who specializes in React, and React frameworks. 
 I graduated from the University of Oregon's full stack web development program and received accolades from my teaching staff, classmates, and recruiters. I graduated with straight A's, the beginning of a new network, and a certification. Other than learning MongoDB, Express, React, and Node.js, I also learned MySQL, Git, jQuery, Bootstrap, Material-UI, Google APIs, NASA APIs, version control, and how to work in an Agile environment.
 
