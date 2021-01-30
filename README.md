@@ -4,7 +4,7 @@ I graduated from the University of Oregon's full stack web development program a
 
 I then never stopped learning and immediately began courses through Udemy to gain even more knowledge. I wanted to improve my skills in React, so I began a course teaching Redux, GraphQL, Stripe, and Firebase. Along the way I learned Next.js, Typescript, SCSS, Shopify, and more!
 
-I am currently a part of a start up, and have learned Google Authenticaiton, Facebook authentication, and how to integrate the front end apis to a Django backend. 
+Currently part of a start up, and have learned Google Authenticaiton, Facebook authentication, and how to integrate the front end apis to a Django backend. 
 
 My current favorite framework is Next.js. 
 
