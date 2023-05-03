@@ -16,6 +16,4 @@ Outside of my professional pursuits, I am dedicated to personal growth and assis
 [<img src='https://www.iconfinder.com/icons/1298743/download/svg/512' alt='github' height='40'>](https://github.com/KeithBillings)  [<img src='https://www.iconfinder.com/icons/4362961/download/svg/512' alt='linkedin' height='40'>](https://www.linkedin.com/in/keithbillings/)  [<img src='https://www.iconfinder.com/icons/386648/download/svg/512' alt='instagram' height='40'>](https://www.instagram.com/CowboyKeithBop/)  [<img src='https://www.iconfinder.com/icons/4102580/download/svg/512' alt='twitter' height='40'>](https://twitter.com/KeithBillings)  [<img src='https://www.iconfinder.com/icons/5882204/download/svg/512' alt='website' height='40'>](https://keithbillings.com/)  
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KeithBillings&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/KeithBillings)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KeithBillings&show_icons=true)
