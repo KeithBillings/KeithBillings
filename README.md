@@ -1,12 +1,10 @@
 ### Hello World! 👋
-#### I am a full stack web developer who specializes in React, JS, and CSS. 
-I graduated from the University of Oregon's full stack web development program and received accolades from my teaching staff, classmates, and recruiters. I graduated with straight A's, the beginning of a new network, and a certification. Other than learning MongoDB, Express, React, and Node.js, I also learned MySQL, Git, jQuery, Bootstrap, Material-UI, Google APIs, NASA APIs, version control, and how to work in an Agile environment.
+#### I am Keith Billings, a full stack web developer who specializes in React. 
 
-I then never stopped learning and immediately began courses through Udemy to gain even more knowledge. I wanted to improve my skills in React, so I began a course teaching Redux, GraphQL, Stripe, and Firebase. Along the way I learned Next.js, Typescript, SCSS, Shopify, and more!
+I am a highly motivated front-end specialist with a passion for creating exceptional web experiences. Based in Beaverton, Oregon, I have honed my expertise in React and other web technologies through professional experience at companies like Brandlive. My adaptability and enthusiasm for learning new skills make me a standout developer. I am also proficient in  HTML, SCSS, JS, Typescript, Node.js, Figma, Next.js, and other web technologies.
 
-I currently work as a Custom Web Developer for Brandlive. 
+Outside of my professional pursuits, I am dedicated to personal growth and assisting others in reaching their full potential. With a positive attitude and strong leadership skills, I am committed to cultivating a collaborative and inclusive environment for both my colleagues and clients. My genuine interest in staying updated with the latest advancements in web development ensures that I am always equipped to provide the best solutions. In my free time I enjoy reading educational and fascinating books, and spending time with my family. I am also obsessed with cars, and a lifelong Formula 1 fan.
 
-My current favorite framework is Next.js. 
 #
 
 #### Skills: 
